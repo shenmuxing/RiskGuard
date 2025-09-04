@@ -2,6 +2,8 @@
 
 This is the source code for the paper "Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction".
 
+full version of our paper is available at [full_version/RiskGuard-full.pdf](https://github.com/shenmuxing/RiskGuard/tree/main/full_version/RiskGuard-full.pdf)
+
 ## Environment Setup
 
 ### Prerequisites
