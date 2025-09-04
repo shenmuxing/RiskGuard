@@ -1,8 +1,10 @@
 # Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction
 
-This is the source code for the paper "Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction".
+**RiskGuard**: A novel framework for detecting forced liquidation risks in leveraged trading accounts through auxiliary asset prediction and gradient-based graph sampling.
 
-full version of our paper is available at [full_version/RiskGuard-full.pdf](https://github.com/shenmuxing/RiskGuard/tree/main/full_version/RiskGuard-full.pdf)
+This is the source code for the paper "Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction", addressing the critical challenge of account risk detection in large-scale financial networks by jointly modeling asset fluctuations and account behaviors in temporal bipartite graphs.
+
+The full version of our paper is available at [full_version/RiskGuard-full.pdf](https://github.com/shenmuxing/RiskGuard/tree/main/full_version/RiskGuard-full.pdf)
 
 ## Environment Setup
 
